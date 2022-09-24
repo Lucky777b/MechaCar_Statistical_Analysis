@@ -67,6 +67,9 @@ For Lot 3, the p-value is equal to 0.04168, which is smaller than the significan
 
 Another statistical study that could be beneficial for determining MechaCar's products versus other car companies, would be to look at gas efficiency on the highway and on city streets. Gas prices have risen heavily over the past 20 years, and there is no indication that gas prices will stop increasing in the coming years, which is why this would be an important statistic to look at for any consumer looking to purchase a new vehicle. This study would have to be done two times, one using city mpg, and a second study using highway mpg, or a two sample t-test might be able to be performed. 
 
+The null hypothesis: There is no statistical difference between MechaCar prototype City and Highway mpg gas fuel efficiency compared to a competing car manufacturing company city and highway gas fuel efficiency
+The alternative hypothesis: There is a statistical difference between MechaCar prototype City and Highway mpg gas fuel efficiency compared to a competing car manufacturing company city and highway gas fuel efficiency
+
 The metrics that could be included in the analysis are as follows: 
 
 * City mpg (1st study): dependent variable 
