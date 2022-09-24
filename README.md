@@ -63,7 +63,7 @@ For Lot 2, the p-value is equal to 0.6072, which is also higher than the signifi
 
 For Lot 3, the p-value is equal to 0.04168, which is smaller than the significance level of 0.05. Due to this p-value result, we can reject the null hypothesis that Lot 3's manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch. Even though, the p-value allows us to reject the null hypothesis, the t-value is still very small, which would normally indicate that the mean value is not statistically different from the population mean. It is possible that this test should be run again at a smaller significance level to see if the p-value will still produce a result to reject the null hypothesis if the significance level was 0.025 versus 0.05. 
 
-### Study Design: MechaCar Gas Efficiency 
+### Study Design: MechaCar vs. Competition - Gas Efficiency 
 
 Another statistical study that could be beneficial for determining MechaCar's products versus other car companies, would be to look at gas efficiency on the highway and on city streets. Gas prices have risen heavily over the past 20 years, and there is no indication that gas prices will stop increasing in the coming years, which is why this would be an important statistic to look at for any consumer looking to purchase a new vehicle. This study would have to be done two times, one using city mpg, and a second study using highway mpg, or a two sample t-test might be able to be performed. 
 
