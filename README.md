@@ -1,4 +1,15 @@
-# MechaCar_Statistical_Analysis
+# MechaCar Statistical Analysis
+
+## Overview 
+
+The purpose of this project is to analyze MechaCar metrics for their car manufacturing prototype designs, and compare the vehicle performance across multiple manufacturer lots. This analysis was done by using RStudio to perform statistical tests, such as linear regression, summary statistics(mean, median, standard deviation, and variance), and t-test. 
+
+## Resources 
+
+* Software: R and RStudio 
+* Data: 
+  * MechaCar_mpg.csv
+  * Suspension_Coil.csv
 
 ## Linear Regression to Predict MPG 
 
